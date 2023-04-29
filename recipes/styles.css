@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+h1, h3, h4, h5 {
+    text-align: center;
+    color: rgb(21, 79, 30);
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(103, 166, 112);
+    color: rgb(21, 79, 30);
+}
+
+#flautas {
+    height: auto;
+    width: auto;
+}
+
+.name {
+    font-size: 250;
+    font-weight: bold;
+}
+
+ul {
+    display: contents;
+    align-items: center;
+}
